@@ -1,6 +1,6 @@
 # GFPE: Enhanced Camera Pose Estimation via 3D Gaussian Splatting and Feature Matching
 
-**notice:** The current upload contains only part of the code. The complete code is being organized, and we will upload it to this repository as soon as it is ready.
+\*\***notice:** The current upload contains only part of the code. The complete code is being organized, and we will upload it to this repository as soon as it is ready.\*\*
 
 ## Installation
 
